@@ -105,6 +105,7 @@ This is [an example](http://example.com/ “Title”) inline link.
 
 1.5.2 图片
 图片示例：
+![hehe](/home/colin/NoteBook/Resource/Picture/test1.png)
 
 ![Importnew](http://www.importnew.com/wp-content/uploads/2012/11/importNew-233×50.jpg)
 

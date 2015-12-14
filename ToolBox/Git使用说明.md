@@ -74,6 +74,10 @@
 
         git push -u origin master//将本地项目更新到github项目上去
 
+        git pull  https://github.com/ColinFly/NoteBook.git //从服务器拉取一个版本下来
+
+
+
   ### 获取帮助
 
   果当你在使用Git时需要帮助，有三种方法可以获得任何git命令的手册页(manpage)帮助信息:
