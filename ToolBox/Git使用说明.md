@@ -78,7 +78,7 @@
 
 
 
-  ### 获取帮助
+### 获取帮助
 
   果当你在使用Git时需要帮助，有三种方法可以获得任何git命令的手册页(manpage)帮助信息:
       $ git help <verb>
@@ -90,3 +90,11 @@
       例如，你可以运行如下命令获取对config命令的手册页帮助:
 
       $ git help config
+
+### 添加别名
+
+    $ git config --global alias.st status
+
+這樣一來只要打 git st 就等同於打 git status 了。
+
+或是其實 Git 的設定檔是儲存在你的家目錄的.gitconfig 隱藏檔中，你可以使用編輯器將他打開
