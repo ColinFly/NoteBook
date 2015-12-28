@@ -15,3 +15,6 @@ http://www.tuicool.com/articles/NnuIva
 
 好用的网络请求库Retrofit2（入门及讲解）
 http://blog.csdn.net/biezhihua/article/details/49232289
+
+ANDRIOD集成RETROFIT网络请求库指南:
+http://zijianwang.xyz/blog/Android-Dev-The-simple-user-of-Retrofit-Http-Client/
